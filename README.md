@@ -2,7 +2,7 @@
 
 [![image](https://github.com/makucg/nextjs-mantine-tailwindcss-template/blob/main/src/assets/image.png)](https://nextjs-mantine-tailwindcss-template.netlify.app)
 
-This is a fully-featured full-stack [Next.js](https://nextjs.org/) template, built with [Mantine UI](https://mantine.dev/) and [Typescript](https://www.typescriptlang.org/).
+This is a fully-featured full-stack [Next.js](https://nextjs.org/) template, built with [Mantine UI](https://mantine.dev/), [TailwindCSS](https://tailwindcss.com/) and [Typescript](https://www.typescriptlang.org/).
 
 ## Whats Included
 
