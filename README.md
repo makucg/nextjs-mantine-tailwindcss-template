@@ -1,6 +1,6 @@
-# nextjs-mantine-template
+# nextjs-mantine-tailwindcss-template -> under construction
 
-[![image](https://user-images.githubusercontent.com/82776299/198222381-1c90bd7e-2f1a-4d74-b8dc-0a017a5102a6.png)](https://nextjs-mantine-template.deploy.cnoside.dev)
+[![image](https://github.com/makucg/nextjs-mantine-tailwindcss-template/blob/main/src/assets/image.png)](https://nextjs-mantine-tailwindcss-template.netlify.app)
 
 This is a fully-featured full-stack [Next.js](https://nextjs.org/) template, built with [Mantine UI](https://mantine.dev/) and [Typescript](https://www.typescriptlang.org/).
 
@@ -8,9 +8,9 @@ This is a fully-featured full-stack [Next.js](https://nextjs.org/) template, bui
 
 ### 📦 Libraries, Tools, and Frameworks
 
-- ⚛ Libraries<br /> `react-hook-form`, `react-query`, `axios`, `next-seo`, `yup`
-- 🔧 Tools<br/>`commitlint`, `husky`, `eslint`, `prettier`
-- 📦 Frameworks<br/>`next`, `mantine-ui`, `next-i18next`
+-  ⚛ Libraries<br /> `react-hook-form`, `react-query`, `axios`, `next-seo`, `yup`
+-  🔧 Tools<br/>`commitlint`, `husky`, `eslint`, `prettier`
+-  📦 Frameworks<br/>`next`, `mantine-ui`, `next-i18next`
 
 ### 🏗 Next.js Layouts
 
@@ -32,8 +32,8 @@ GitHub Actions with CI/CD workflows are included.
 
 ## Prerequisites
 
-- [pnpm](https://pnpm.io/)
-- [Node.js](https://nodejs.org/en/) (^v14.16.
+-  [pnpm](https://pnpm.io/)
+-  [Node.js](https://nodejs.org/en/) (^v14.16.
 
 ## Getting Started
 
