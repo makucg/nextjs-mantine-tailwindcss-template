@@ -5,8 +5,9 @@ import React from 'react';
 import { ActionIcon, Anchor, Container, createStyles, Group, Header } from '@mantine/core';
 import { IconLogout } from '@tabler/icons';
 
+import { ToggleDark } from '../ui/buttons/toggle-dark.component';
+
 import { useSession } from 'modules/auth';
-import { ToggleDark } from 'shared/components';
 import { IAppRoute } from 'shared/interfaces';
 
 const DEFAULT_HEIGHT = 80;
